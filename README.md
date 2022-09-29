@@ -38,9 +38,12 @@ I am interested in new technologies, electronics, programming, the IT industry, 
 
 ## Links:
 - Linkedin: https://www.linkedin.com/in/janusz-kucaba/
+- Job profile: https://www.facebook.com/jktronik
 - Projects page: https://softwarecode.pl
-- DiluDilu blocks: https://nowiny24.pl/zobacz-jaki-pomysl-nagrodzono-podczas-startup-weekend-rzeszow/ar/c3-11205092
-- MarsRover G2A: https://www.facebook.com/marsroverg2a
+
+- Startup project - DiluDilu blocks: https://nowiny24.pl/zobacz-jaki-pomysl-nagrodzono-podczas-startup-weekend-rzeszow/ar/c3-11205092
+- Hackathon project - MarsRover G2A: https://www.facebook.com/marsroverg2a
+- REST API project - STX BookStore: http://book-store-stx.herokuapp.com/
 - CCTVRobotics: https://www.facebook.com/cctvrobotics
 
 
